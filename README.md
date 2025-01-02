@@ -1,4 +1,3 @@
 # tedapp
 
-A new Flutter project.
-
+Mobil Programlama Final Ödevi
