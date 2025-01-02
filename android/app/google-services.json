@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072752733483",
+    "project_id": "tedapp-2b470",
+    "storage_bucket": "tedapp-2b470.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072752733483:android:e88a4383ad8bb19349a96e",
+        "android_client_info": {
+          "package_name": "com.tedapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IPS5_urss-4sBiMiSyF5OyrfTFuFDa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
