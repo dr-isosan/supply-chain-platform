@@ -1,5 +1,7 @@
-# 🛍️ TedApp - Supply Chain Management System
-# BIL-327 Mobile Programming Project
+# 🛍️ TedApp - Supply Chain Management System 
+
+BIL-327 Mobile Programming Project
+
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com)
