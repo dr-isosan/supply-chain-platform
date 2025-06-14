@@ -217,9 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: <your.email@example.com>
+- Email: <ishakudrn@gmail.com>
 
 ## 🙏 Acknowledgments
 
@@ -228,16 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community for valuable packages and tools
 - [Material Design](https://material.io/) for design guidelines
 
-## 📈 Future Enhancements
 
-- [ ] Push notifications for new supplies and applications
-- [ ] Advanced filtering and sorting options
-- [ ] Real-time chat between suppliers and applicants
-- [ ] Analytics dashboard for supply trends
-- [ ] Multi-language support
-- [ ] Dark mode theme
-- [ ] Export functionality for reports
-- [ ] Advanced user roles and permissions
 
 ---
 
