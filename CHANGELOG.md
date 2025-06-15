@@ -5,7 +5,7 @@ All notable changes to TedApp will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## Released
 
 ### Added
 
@@ -33,7 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Navigation animations and transitions
 - Error message display and handling
 
-## [1.0.0] - 2025-06-14
+## [1.0.0] 
 
 ### Added
 
@@ -113,25 +113,6 @@ Each release includes:
 
 ---
 
-## Future Roadmap
-
-### Planned Features (v1.1.0)
-
-- [ ] Push notifications for new supplies
-- [ ] Advanced filtering and sorting
-- [ ] Dark mode support
-- [ ] Multi-language support (Turkish/English)
-- [ ] Export functionality
-- [ ] Analytics dashboard
-
-### Long-term Goals (v2.0.0)
-
-- [ ] Real-time chat system
-- [ ] Advanced user roles and permissions
-- [ ] Supply recommendation system
-- [ ] Mobile app optimization
-- [ ] API for third-party integrations
-- [ ] Advanced reporting features
 
 ---
 
