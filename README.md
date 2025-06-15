@@ -9,11 +9,6 @@ BIL-327 Mobile Programming Project
 
 > A modern, comprehensive supply chain management application built with Flutter and Firebase, designed to streamline supply requests, applications, and management processes.
 
-## 📱 Screenshots
-
-| Login Screen | Home Screen | Profile Screen |
-|:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Profile](screenshots/profile.png) |
 
 ## ✨ Features
 
