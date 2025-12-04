@@ -214,15 +214,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 - Email: <ishakudrn@gmail.com>
 
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Firebase team for robust backend services
-- Open source community for valuable packages and tools
-- [Material Design](https://material.io/) for design guidelines
 
 
 
----
 
-**Made with ❤️ using Flutter**
+
